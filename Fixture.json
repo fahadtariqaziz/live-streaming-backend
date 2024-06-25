@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 1,
+    "TeamA": "3",
+    "TeamB": "10",
+    "Date": "2024-06-12",
+    "Time": "15:30",
+    "ChannelURL": "6",
+    "LeagueName": "7"
+  },
+  {
+    "ID": 2,
+    "TeamA": "7",
+    "TeamB": "8",
+    "Date": "2024-06-02",
+    "Time": "18:00",
+    "ChannelURL": "5",
+    "LeagueName": "7"
+  },
+  {
+    "ID": 3,
+    "TeamA": "9",
+    "TeamB": "2",
+    "Date": "2024-06-03",
+    "Time": "20:00",
+    "ChannelURL": "1",
+    "LeagueName": "3"
+  },
+  {
+    "ID": "22",
+    "TeamA": "adsa",
+    "TeamB": "sadsaa",
+    "Date": "2024-05-10",
+    "Time": "00:35",
+    "ChannelURL": "sadds",
+    "LeagueName": "dsad"
+  }
+]
